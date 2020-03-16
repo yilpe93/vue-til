@@ -1,6 +1,6 @@
-# Vue-til
+# 
 
-Vue-CLI 학습 노트 애플리케이션 클론
+Vue TIL 학습 노트 애플리케이션 클론
 
 > [Node-Server](https://github.com/yilpe93/vue-til-server)
 
