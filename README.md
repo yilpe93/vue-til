@@ -43,4 +43,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## License & Copyright
 ### Copyright © 2019 Captain Pangyo Creative Commons License
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
